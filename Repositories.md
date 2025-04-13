@@ -7,3 +7,7 @@ https://raw.githubusercontent.com/Sadwhy/aniyomi-extensions/repo/index.min.json 
 https://raw.githubusercontent.com/usyboi/aniyomi-extensions/repo/index.min.json \
 https://raw.githubusercontent.com/punpunsx/aniyomi-extensions/repo/index.min.json \
 https://raw.githubusercontent.com/Kholbi/aniyomi-extensions-revived/repo/index.min.json
+
+
+# Paperback (iOS)
+https://github.com/therobbiedavis/paperback-extension-repo
