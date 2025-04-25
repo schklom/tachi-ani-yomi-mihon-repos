@@ -1,5 +1,6 @@
 # Manga
-https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json \
+https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/index.min.json
 
 # Anime
 https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json \
